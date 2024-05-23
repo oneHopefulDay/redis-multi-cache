@@ -1,4 +1,4 @@
-package com.zhuge.common;
+package com.zjimee.common;
 
 /**
  * @author ：zhuge

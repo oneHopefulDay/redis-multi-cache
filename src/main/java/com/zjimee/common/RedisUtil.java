@@ -1,4 +1,4 @@
-package com.zhuge.common;
+package com.zjimee.common;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;

@@ -1,10 +1,10 @@
-package com.zhuge.service;
+package com.zjimee.service;
 
 import com.alibaba.fastjson.JSON;
-import com.zhuge.common.RedisKeyPrefixConst;
-import com.zhuge.common.RedisUtil;
-import com.zhuge.dao.ProductDao;
-import com.zhuge.model.Product;
+import com.zjimee.common.RedisKeyPrefixConst;
+import com.zjimee.common.RedisUtil;
+import com.zjimee.dao.ProductDao;
+import com.zjimee.model.Product;
 import org.redisson.Redisson;
 import org.redisson.api.RLock;
 import org.redisson.api.RReadWriteLock;

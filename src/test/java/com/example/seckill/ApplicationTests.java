@@ -1,11 +1,11 @@
 package com.example.seckill;
 
 import com.alibaba.fastjson.JSON;
-import com.zhuge.Application;
-import com.zhuge.common.RedisKeyPrefixConst;
-import com.zhuge.common.RedisUtil;
-import com.zhuge.model.Product;
-import com.zhuge.service.ProductService;
+import com.zjimee.Application;
+import com.zjimee.common.RedisKeyPrefixConst;
+import com.zjimee.common.RedisUtil;
+import com.zjimee.model.Product;
+import com.zjimee.service.ProductService;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

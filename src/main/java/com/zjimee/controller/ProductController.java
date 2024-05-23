@@ -1,7 +1,7 @@
-package com.zhuge.controller;
+package com.zjimee.controller;
 
-import com.zhuge.model.Product;
-import com.zhuge.service.ProductService;
+import com.zjimee.model.Product;
+import com.zjimee.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

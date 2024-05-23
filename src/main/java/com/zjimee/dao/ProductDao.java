@@ -1,6 +1,6 @@
-package com.zhuge.dao;
+package com.zjimee.dao;
 
-import com.zhuge.model.Product;
+import com.zjimee.model.Product;
 import org.springframework.stereotype.Repository;
 
 /**

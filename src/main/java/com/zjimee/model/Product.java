@@ -1,4 +1,4 @@
-package com.zhuge.model;
+package com.zjimee.model;
 
 import java.math.BigDecimal;
 import java.util.Date;
